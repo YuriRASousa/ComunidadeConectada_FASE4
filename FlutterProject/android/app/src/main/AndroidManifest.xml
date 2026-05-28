@@ -41,7 +41,7 @@
 
         <!-- Adicione sua chave do Google Maps aqui -->
         <meta-data android:name="com.google.android.geo.API_KEY"
-            android:value="COLOQUE_SUA_CHAVE_GOOGLE_MAPS_AQUI"/>
+            android:value="AIzaSyAt3yjLCUAv-wgaFsvMmYOLTJoXz2eoMBE"/>
     </application>
     <!-- Required to query activities that can process text, see:
          https://developer.android.com/training/package-visibility and
